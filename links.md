@@ -6,3 +6,4 @@
 - https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md
 - http://humanstxt.org
 - http://mozillascience.github.io/leadership-training/03.1-mechanics.html
+- http://thenewstack.io/darker-side-open-source/
